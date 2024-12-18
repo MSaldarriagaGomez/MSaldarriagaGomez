@@ -30,7 +30,7 @@
 
 ### Habilidades 
 
-- Técnicas: Java, Html, MySQL, MongoDB, JavaScript, CSS, SASS, ReactJs, NodeJs, Git/GitHub, SpringBoot
+- Técnicas: Java, JavaScript, MySQL, MongoDB, JavaScript, CSS, SASS, ReactJs, NodeJs, Git/GitHub, SpringBoot
 - Blandas: comunicación, orientación a resultados, toma de decisiones e  implementación de estrategias para cumplir el impacto deseado.
 
   ### Intereses
